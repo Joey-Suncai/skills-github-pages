@@ -1,4 +1,4 @@
 ---
 title: Welcome to my blog!
 ---
-## A beginner on Github
+# what up guys I'm Joey. This is my first personal page
